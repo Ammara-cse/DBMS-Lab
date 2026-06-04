@@ -1,0 +1,47 @@
+
+-- Aim: To study SELECT and WHERE Clauses
+
+USE CollegeDB;
+
+-- CREATE TABLE
+
+CREATE TABLE Student (
+StudentID INT PRIMARY KEY,
+StudentName VARCHAR(100),
+Age INT,
+DepartmentID INT
+);
+
+-- INSERT RECORDS
+
+INSERT INTO Student VALUES (1,'Ammara',20,101);
+INSERT INTO Student VALUES (2,'Ali',21,102);
+INSERT INTO Student VALUES (3,'Sara',19,101);
+INSERT INTO Student VALUES (4,'Ahmed',22,103);
+
+-- SELECT ALL RECORDS
+
+SELECT * FROM Student;
+
+-- SELECT SPECIFIC COLUMNS
+
+SELECT StudentName, Age
+FROM Student;
+
+-- WHERE CLAUSE
+
+SELECT *
+FROM Student
+WHERE Age > 20;
+
+-- WHERE WITH DEPARTMENT
+
+SELECT *
+FROM Student
+WHERE DepartmentID = 101;
+
+-- WHERE WITH NAME
+
+SELECT *
+FROM Student
+WHERE StudentName = 'Ammara';
