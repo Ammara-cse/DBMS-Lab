@@ -41,9 +41,7 @@ This repository contains SQL scripts, relational database queries, schema config
    git clone [https://github.com/Ammara-cse/DBMS-Lab.git](https://github.com/Ammara-cse/DBMS-Lab.git)
    cd DBMS-Lab
 
-   Ye raha aapke Execution Steps aur Single-Author Academic Details ka clean Markdown code:
 
-```markdown
 ## 🚀 How to Execute These Scripts
 
 1. **Clone the Repository:**
