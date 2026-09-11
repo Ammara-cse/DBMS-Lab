@@ -49,7 +49,6 @@ This repository contains SQL scripts, relational database queries, schema config
    git clone [https://github.com/Ammara-cse/DBMS-Lab.git](https://github.com/Ammara-cse/DBMS-Lab.git)
    cd DBMS-Lab
 
-```
 
 2. **Run Scripts in MySQL / SQL Environment:**
 ```sql
