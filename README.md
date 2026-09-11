@@ -60,7 +60,7 @@ SOURCE 02_Insert_Delete_Alter_Drop.sql;
 
 * **Name:** Ammara Sirkhot
 * **PRN:** 24030332905059
-* **Department:** Department of Computer Engineering
+* **Department:** Department of Computer Science and Engineering
 * **University:** Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere
 * **Academic Year:** 2025–2026
 
